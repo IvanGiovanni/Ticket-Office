@@ -1,6 +1,7 @@
 # Ticket-Office
 My take of the "Ticket Office" problem on Sololearn.
 
+
 This is the problem:
 **Ticket Office**
 
